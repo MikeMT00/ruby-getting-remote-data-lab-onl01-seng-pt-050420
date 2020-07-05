@@ -22,4 +22,4 @@ class GetRequester
         end
         converted_data
     end
-end code here
+end
